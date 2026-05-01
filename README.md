@@ -1,4 +1,4 @@
-# The-Witcher-Interactive-Fiction
+# The Witcher Interactive Fiction
 
 This repository contains a simple game using the IF language. This was a game developed for the Multimedia Content Production course in Instituto Superior Técnico.
 
